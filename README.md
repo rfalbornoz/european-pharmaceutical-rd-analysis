@@ -1,4 +1,5 @@
 European Drugs Development
+
 An unsupervised and unstructured data analysis of the European Medicines Agency (EMA) drug authorization landscape — exploring how regulatory pathway flags co-occur, how they relate to authorization outcomes, and how human and veterinary medicines structurally differ.
 
 Course: BA820 — Unsupervised and Unstructured Machine Learning (MSBA)
