@@ -1,6 +1,6 @@
-# European Drugs Development
+# European Pharmaceutical R&D Analysis
 
-An unsupervised and unstructured data analysis of the European Medicines Agency (EMA) drug authorization landscape — exploring how regulatory pathway flags co-occur, how they relate to authorization outcomes, and how human and veterinary medicines structurally differ.
+An unsupervised and unstructured data analysis of the European Medicines Agency (EMA) drug authorization landscape (team project title: "European Drugs Development") — exploring how regulatory pathway flags co-occur, how they relate to authorization outcomes, and how human and veterinary medicines structurally differ.
 
 **Course:** BA820 — Unsupervised and Unstructured Machine Learning (MSBA)
 **Section / Team:** A1, Team 10
@@ -97,4 +97,10 @@ European Medicines Agency (EMA) public dataset of authorized, refused, and withd
 
 ## Original Repository
 
-This is a forked copy maintained for portfolio purposes. The original team repository, including full commit history and contributions from all team members, can be found at [SChamnan/ba820-unsupervised-ml-team10-project](https://github.com/SChamnan/ba820-unsupervised-ml-team10-project).
+This is a forked copy maintained for portfolio purposes. The original team repository, including full commit history and contributions from all team members, can be found at [SChamnan/Unsupervised-ML---European-Drugs-Development-Analysis](https://github.com/SChamnan/Unsupervised-ML---European-Drugs-Development-Analysis).
+
+## Other Projects
+
+- [Mortgage Prepayment Across Rate Regimes](https://github.com/rfalbornoz/mortgage-prepayment-rate-regimes): individual capstone research paper modeling voluntary prepayment on Freddie Mac loan-level data (2018 and 2020 vintages) with a cross-regime model transfer test.
+- [Loan Default Risk Prediction](https://github.com/rfalbornoz/loan-default-risk-prediction): supervised ML pipeline (logistic regression, decision tree, random forest, XGBoost) on LendingClub data for New England and New York (team project).
+- [Massachusetts Loan Default Risk](https://github.com/rfalbornoz/analytics-massachusetts-loan-risk): descriptive and geospatial analysis integrating LendingClub loans with ACS Census estimates (team project).
